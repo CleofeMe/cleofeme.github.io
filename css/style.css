@@ -68,7 +68,7 @@ p {
 }
 
 #hero {
-  background: url(/NAVIGATION_HERO_SECTION/image/hero\ image.jpg) no-repeat center center/ cover;
+  background: url(/image/hero\ image.jpg) no-repeat center center/ cover;
   height: 600px;
 }
 #hero .hero-content {
@@ -132,7 +132,7 @@ p {
 
 /* setion testimonials */
 #testimonials {
-  background: url("/NAVIGATION_HERO_SECTION/image/section.jpg") no-repeat center center/cover;
+  background: url("/image/section.jpg") no-repeat center center/cover;
   height: 600px;
   overflow: hidden;
 }
